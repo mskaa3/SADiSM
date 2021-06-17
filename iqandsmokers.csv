@@ -1,0 +1,122 @@
+﻿country,iq,totalSmokingRate,maleSmokingRate,femaleSmokingRate
+singapore,108,16.5,28,5
+south korea,106,27,49.8,4.2
+japan,105,22.15,33.7,10.6
+china,105,24.7,47.6,1.8
+italy,102,24,28.3,19.7
+iceland,101,16.05,17,15.1
+mongolia,101,26.5,47.7,5.3
+switzerland,101,23.3,26.9,19.7
+luxembourg,100,23.6,25.8,21.4
+norway,100,22.25,22.4,22.1
+austria,100,35.15,35.5,34.8
+netherlands,100,25.05,26.2,23.9
+united kingdom,100,19.15,19.9,18.4
+estonia,99,33.05,41.2,24.9
+finland,99,20.85,23.2,18.5
+sweden,99,20.6,20.4,20.8
+belgium,99,23.25,26.5,20
+poland,99,28.05,32.4,23.7
+canada,99,14.95,17.7,12.2
+germany,99,30.35,32.4,28.3
+andorra,98,32.5,37.2,27.8
+latvia,98,36.6,48.9,24.3
+denmark,98,17,17.6,16.4
+hungary,98,28.4,32,24.8
+czech republic,98,33.2,37.4,29
+australia,98,14.9,16.7,13.1
+spain,98,29.2,31.3,27.1
+france,98,27.7,29.8,25.6
+united states,98,17.25,19.5,15
+malta,97,24.95,29.7,20.2
+belarus,97,28.4,46.2,10.6
+ukraine,97,31.7,49.4,14
+russia,97,40.9,59,22.8
+slovenia,96,20.2,22.3,18.1
+uruguay,96,23.05,26.7,19.4
+moldova,96,25.55,45.7,5.4
+slovakia,96,28.65,39.7,17.6
+portugal,95,22.6,31.5,13.7
+armenia,94,26.9,52.3,1.5
+georgia,94,31.7,57.7,5.7
+kazakhstan,94,26.6,43.9,9.3
+romania,94,29.8,36.9,22.7
+vietnam,94,24.2,47.1,1.3
+bulgaria,93,35.3,42.4,28.2
+argentina,93,23.95,29.5,18.4
+ireland,92,22.15,22.4,21.9
+greece,92,42.65,52.6,32.7
+malaysia,92,22.2,43,1.4
+brunei,91,16.2,29.3,3.1
+lithuania,91,30.15,38.1,22.2
+sierra leone,91,36,60,12
+thailand,91,21.85,41.4,2.3
+albania,90,29.4,51.2,7.6
+bosnia and herzegovina,90,38.6,47.2,30
+croatia,90,36.45,39.4,33.5
+kyrgyzstan,90,27,50.4,3.6
+turkey,90,25.95,39.5,12.4
+mauritius,89,21.7,40.1,3.3
+costa rica,89,13.4,18.5,8.3
+laos,89,32.85,56.6,9.1
+serbia,89,41.65,43.6,39.7
+samoa,88,29.95,41,18.9
+ecuador,88,8.65,14,3.3
+mexico,88,13.7,20.8,6.6
+nauru,87,47.5,43,52
+azerbaijan,87,23.45,46.5,0.4
+bolivia,87,23.8,30.5,17.1
+uzbekistan,87,13.1,24.9,1.3
+myanmar,87,19,31.6,6.4
+indonesia,87,39.9,76.2,3.6
+seychelles,86,25.9,43,8.8
+tonga,86,30.15,47.3,13
+philippines,86,25.75,43,8.5
+kiribati,85,52.4,63.9,40.9
+fiji,85,25.55,38.7,12.4
+cuba,85,35.25,52.7,17.8
+panama,84,6.6,10.6,2.6
+paraguay,84,18.1,28.3,7.9
+jordan,84,40.45,70.2,10.7
+saudi arabia,84,15.4,27.9,2.9
+morocco,84,23.4,45.4,1.4
+uganda,84,9.65,16.4,2.9
+colombia,84,11.1,16,6.2
+iran,84,11.1,21.5,0.7
+nigeria,84,9.25,17.4,1.1
+pakistan,84,22.45,41.9,3
+bahrain,83,28.2,48.8,7.6
+oman,83,11,21,1
+lebanon,82,38.2,45.4,31
+dominican republic,82,14.1,18.8,9.4
+zimbabwe,82,16.65,31.2,2.1
+bangladesh,82,20.25,39.8,0.7
+india,82,11.15,20.4,1.9
+honduras,81,17.7,33.3,2.1
+egypt,81,25.1,49.9,0.3
+barbados,80,7,13.1,0.9
+kenya,80,13.35,24.6,2.1
+zambia,79,15.55,26.5,4.6
+sri lanka,79,14.4,28.4,0.4
+nepal,78,24.1,37.1,11.1
+comoros,77,14.55,23.1,6
+south africa,77,18.95,31.4,6.5
+cape verde,76,12.85,22.2,3.5
+mauritania,76,23.85,44,3.7
+Republic of the congo,76,22.45,43.2,1.7
+senegal,76,12.05,23.4,0.7
+namibia,74,25.15,38.9,11.4
+mali,74,20,36.8,3.2
+ghana,73,6.75,13.1,0.4
+tanzania,72,15.65,27.5,3.8
+jamaica,71,17.9,29.9,5.9
+benin,70,9.35,17.7,1
+malawi,69,15.7,25.4,6
+ethiopia,69,4.7,8.9,0.5
+Eswatini,68,10.6,19,2.2
+burkina faso,68,20.25,36,4.5
+lesotho,67,27.75,55.1,0.4
+liberia,67,15,27.6,2.4
+haiti,67,12.3,22.1,2.5
+cameroon,64,22.35,43.8,0.9
+mozambique,64,18.65,31.4,5.9
